@@ -4,6 +4,12 @@ Welcome to the official repository for downloading the **EduCore Desktop Applica
 
 ---
 
+## # EduCore - Official Download Hub
+
+Welcome to the official repository for downloading the **EduCore Desktop Application**, the definitive, offline-first ecosystem for professional school administration.
+
+---
+
 ## Official Release (v1.0.0)
 
 For the best user experience, we recommend the **Standalone Distribution**. It is a pre-compiled, optimized version of the entire EduCore ecosystem that runs without installation, making it ideal for both permanent workstations and portable USB deployment.
